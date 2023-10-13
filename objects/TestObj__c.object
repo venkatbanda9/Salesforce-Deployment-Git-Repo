@@ -176,7 +176,7 @@
     <fields>
         <fullName>Field1__c</fullName>
         <externalId>false</externalId>
-        <label>em</label>
+        <label>Field 1</label>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
@@ -186,7 +186,7 @@
     <fields>
         <fullName>Field2__c</fullName>
         <externalId>false</externalId>
-        <label>em</label>
+        <label>Field 2</label>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
@@ -196,7 +196,7 @@
     <fields>
         <fullName>Field3__c</fullName>
         <externalId>false</externalId>
-        <label>em</label>
+        <label>Field 3</label>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
@@ -206,7 +206,7 @@
     <fields>
         <fullName>Field4__c</fullName>
         <externalId>false</externalId>
-        <label>em</label>
+        <label>Field 4</label>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
